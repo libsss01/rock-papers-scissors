@@ -2,7 +2,7 @@
 
 Ce depot contient un jeu "Rock Paper Scissors" realise en HTML, CSS et JavaScript vanilla. Le joueur choisit rock, paper ou scissors, l'ordinateur choisit aleatoirement, puis le score est mis a jour jusqu'a ce qu'un gagnant atteigne 5 points.
 
-## Probleme resolu
+## But du Projet
 
 Ce projet est un exercice pratique pour apprendre la logique JavaScript cote navigateur : selection d'elements du DOM, ecoute d'evenements, conditions, generation aleatoire, mise a jour dynamique de l'interface et gestion d'un score.
 
@@ -65,7 +65,6 @@ Le fichier `script.js` :
 ## Pistes d'amelioration
 
 - Ajouter un bouton "Reset".
-- Corriger les petites fautes de texte comme "Loose" en "Lose".
 - Ajouter une animation apres chaque manche.
 - Afficher un historique des manches.
 - Ajouter un mode meilleur des 3 ou meilleur des 5.
